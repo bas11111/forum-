@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = "bas11111.github.io";
+$dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
 $dbname = "login_sample_db";
